@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "655506121494",
+    "project_id": "fistan-85f41",
+    "storage_bucket": "fistan-85f41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655506121494:android:cdae4cab9e6ad77696e637",
+        "android_client_info": {
+          "package_name": "com.fistan.fistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655506121494-1clb3h0qbijbiksve8fkrvv6kk2okkch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fistan.fistan",
+            "certificate_hash": "0d1d9d2062462ca2b9d212839295d61da830d23a"
+          }
+        },
+        {
+          "client_id": "655506121494-eui2q89slnksmahqsl44jkivr00d4csp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVVTcQOFOSMsiJtDvbslhy43akd-Ff4JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655506121494-eui2q89slnksmahqsl44jkivr00d4csp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
