@@ -3,7 +3,6 @@ class LoginModel{
   String?message;
   LoginData? data;
   LoginModel.fromjson(Map<String,dynamic>json){print(json);
-  print('84445418454545445');
     status=json['status'];
     message=json['message'];
     data=json['data']!=null?LoginData.fromJson(json['data']):null;

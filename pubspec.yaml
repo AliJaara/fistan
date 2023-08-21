@@ -53,6 +53,9 @@ dependencies:
   dio: ^5.3.0
   fluttertoast: ^8.2.2
   conditional_builder_null_safety: ^0.0.6
+  carousel_slider: ^4.2.1
+
+
 
 
 

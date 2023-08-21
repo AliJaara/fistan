@@ -23,6 +23,7 @@ class LoginScreen extends StatelessWidget {
         listener: (context,state) {
     if(state is FistanLoginSuccessState){
       if(state.object.status==true) {
+        FistanCubit.get(context).isBoarding=true;
         CashHelper.setValue(key: 'token', value: state.object.data?.token);
         getMessage(message: 'Login Success');
         Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => FistanLayout(),));
